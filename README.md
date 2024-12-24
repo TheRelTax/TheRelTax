@@ -3,4 +3,5 @@ Unity game developer.
 Learning C# 
 Developing ChimpMania
 Have a good day!
-![image](https://github.com/user-attachments/assets/5cf0ccc2-feed-41db-8f64-90bd518473d8)
+![image](https://github.com/user-attachments/assets/271e7972-122c-4396-998b-5bd044367379)
+
